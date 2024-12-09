@@ -1,0 +1,25 @@
+.main{
+  text-align: center;
+}
+
+.Searchbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.Searchbar input{
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.Searchbar ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.Searchbar li{
+  margin-bottom: 5px;
+}
